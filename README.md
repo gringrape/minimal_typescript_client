@@ -1,1 +1,1 @@
-# client_minimal
+# minimal_typescript_client
